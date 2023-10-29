@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piyush Dhamu
-- 🌱 I’m currently learning competitive programming(C++)
+- 🌱 I’m currently learning competitive programming(C++) && Web Development
 - 📫 You can reach me through my email piyushdhamu9@gmail.com
 - 📫 My Hackerrank/Codeforces Id -- piyushdhamu9
 <!---
