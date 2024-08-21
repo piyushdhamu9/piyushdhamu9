@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piyush Dhamu
-- 🌱 I’m currently learning competitive programming(C++) && Web Development
+- 🌱 I’m currently learning MERN Stack
 - 📫 You can reach me through my email piyushdhamu9@gmail.com
 - 📫 My Hackerrank/Codeforces Id -- piyushdhamu9
 <!---
